@@ -1,4 +1,4 @@
-# 👋 UTN - FRP - TUP - Tutorías 2026 <br/> Streaming <br/>
+# 👋 UTN - FRP - TUP - Tutorías 2026 <br/>  <br/>
 
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PLNaY5TLWzvhapnQB5Jy8LvnpXVRoOxzta">
