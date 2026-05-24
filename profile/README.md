@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<h2> Grupo de Programación <br/> Streaming <br/> Documentos, ejemplos y guía de ejercicios </h2>
+<h2> Grupo de Tutorías 2026 <br/> Documentos, ejemplos y guía de ejercicios </h2>
 </div>
 
 <p align="center">
